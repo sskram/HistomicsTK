@@ -5,7 +5,7 @@ segmenting nuclei from histopathology images.
 
 from .gaussian_voting import gaussian_voting
 from .gvf_tracking import gvf_tracking
-from .max_clustering import max_clustering
+#from .max_clustering import max_clustering
 from .min_model import min_model
 
 __all__ = (
